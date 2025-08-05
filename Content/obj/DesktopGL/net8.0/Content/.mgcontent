@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/zaina/source/repos/Cube Rotating/Cube Rotating/Content/../../../../../OneDrive/Desktop/SerenityReal/cubecorner.png</File>
+    <File>C:/Users/zaina/source/repos/Cube Rotating/Cube Rotating/Content/cubecorner.png</File>
+    <File>C:/Users/zaina/source/repos/Cube Rotating/Cube Rotating/Content/font.spritefont</File>
+    <File>C:/Users/zaina/source/repos/Cube Rotating/Cube Rotating/Content/InventorySlot.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Cube2.png</File>
+    <File>Cube1.png</File>
+    <File xsi:nil="true" />
+    <File>Cube.png</File>
+  </DestFiles>
+</SourceFileCollection>

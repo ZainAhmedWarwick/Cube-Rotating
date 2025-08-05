@@ -1,0 +1,35 @@
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\Content\Cube.xnb
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\Cube Rotating.exe
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\Cube Rotating.deps.json
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\Cube Rotating.runtimeconfig.json
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\Cube Rotating.dll
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\Cube Rotating.pdb
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\NVorbis.dll
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.dylib
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.dylib
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.dylib
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\obj\Debug\net8.0\Cube Rotating.csproj.AssemblyReference.cache
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\obj\Debug\net8.0\Cube Rotating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\obj\Debug\net8.0\Cube Rotating.AssemblyInfoInputs.cache
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\obj\Debug\net8.0\Cube Rotating.AssemblyInfo.cs
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\obj\Debug\net8.0\Cube Rotating.csproj.CoreCompileInputs.cache
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\obj\Debug\net8.0\Cube Rot.A839DC6F.Up2Date
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\obj\Debug\net8.0\Cube Rotating.dll
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\obj\Debug\net8.0\refint\Cube Rotating.dll
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\obj\Debug\net8.0\Cube Rotating.pdb
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\obj\Debug\net8.0\Cube Rotating.genruntimeconfig.cache
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\obj\Debug\net8.0\ref\Cube Rotating.dll
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\Content\font.xnb
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\Content\Cube1.xnb
+C:\Users\zaina\source\repos\Cube Rotating\Cube Rotating\bin\Debug\net8.0\Content\Cube2.xnb
